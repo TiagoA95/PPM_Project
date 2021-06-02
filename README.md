@@ -111,7 +111,7 @@ _______________________________________________________
 _______________________________________________________
 
 
--Adds horizontal bars across the image
+-Add horizontal bars across the image
 
 ./ppm_hbar width R G B [input.ppm [output.ppm]]
 
@@ -119,6 +119,6 @@ _______________________________________________________
 _______________________________________________________
 
 
--Adds vertical bars across the image
+-Add vertical bars across the image
 
 ./ppm_vbar width R G B [input.ppm [output.ppm]]
